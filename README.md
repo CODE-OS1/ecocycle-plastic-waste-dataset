@@ -10,9 +10,9 @@ Most public waste datasets (such as TACO and TrashNet) are made up of European a
 
 ## Contribute photos
 
-📸 **[Submit photos through the form](FORM_LINK_HERE)** (takes about 2 minutes, needs a Google account)
+📸 **[Submit photos through the form](https://docs.google.com/forms/d/e/1FAIpQLSerptF-LPuwH_KUmGWakYUDvpv4HESC5c4FeYwwp8QnCjW9lQ/viewform)** (takes about 2 minutes, needs a Google account)
 
-No Google account? Send your photos on WhatsApp to **WHATSAPP_NUMBER_HERE**.
+No Google account? Send your photos on WhatsApp to **0205800935**.
 
 **How to take a good photo**
 - One item per photo, filling most of the frame
@@ -98,4 +98,4 @@ Thank you to everyone who has contributed photos. Contributors are credited in [
 
 ## Contact
 
-Questions or want to run a photo drive with your school, club or community group? Open an issue or reach us at **CONTACT_EMAIL_HERE**.
+Questions or want to run a photo drive with your school, club or community group? Open an issue or reach us at **codeos285@gmail.com**.
